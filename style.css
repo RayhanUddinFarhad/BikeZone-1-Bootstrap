@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Sniglet:wght@400;800&family=Work+Sans:wght@600&display=swap');
+
+* {
+
+  font-family: 'Poppins', sans-serif;
+
+}
+
+
+button, .btn-pri {
+
+  background-color: #E76F51;
+  color: white;
+  border: 0;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+
+header {
+
+  background-image: url("images/header-bg.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.nav-link {
+
+  color: white;
+}
